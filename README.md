@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Markus Digruber and I love programming!
+My name is Markus Digruber and my passion is programming!
 
 
 [Website](https://markusdigruber.com)
